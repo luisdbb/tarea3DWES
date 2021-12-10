@@ -1,0 +1,16 @@
+dao\EjemplarDAO.class
+modelo\PlantaParcelaVO$Id.class
+util\EmfSingleton.class
+daoImpl\LocalizacionDAOImpl.class
+dao\DAO.class
+dao\ParcelaDAO.class
+daoImpl\PlantaDAOImpl.class
+daoImpl\ParcelaDAOImpl.class
+modelo\LocalizacionVO.class
+daoImpl\EjemplarDAOImpl.class
+modelo\PlantaParcelaVO.class
+modelo\PlantaVO.class
+dao\LocalizacionDAO.class
+modelo\ParcelaVO.class
+dao\PlantaDAO.class
+modelo\EjemplarVO.class
